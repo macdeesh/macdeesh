@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Macdeesh a self-taught Web developer
-- 👀 I’m interested in Web3 and Blockchain
+- 👀 I’m interested in automation and AI
 - 🌱 I’m always learning
 - 📫 How to reach me : <a href="https://twitter.com/Macdiish" rel="nofollow">Twitter</a>
 
